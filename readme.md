@@ -4,4 +4,4 @@
 
  1. pip install pyyaml  
  2. cd "путь к расположению файла task3.py"  
- 3. python task3.py -f "filename".json/yaml  
+ 3. python task3.py -f|--filename [filename.(json|yaml)]  
