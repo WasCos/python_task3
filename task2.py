@@ -56,9 +56,8 @@ class RationalNumber:
         new_den = self.den * other.num 
         return RationalNumber(new_num,new_den)
 
-
-
-# # Пунк 1
+#Для проверки задания 2 по всем пунктам
+# Пунк 1
 # rnum_1 = RationalNumber(num=2, den=5)
 # print('rnum_1:', rnum_1.num, rnum_1.den, rnum_1.positive)
 # rnum_2 = RationalNumber(num=-3, den=7)
